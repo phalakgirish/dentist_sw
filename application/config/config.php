@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'sdfsd';
+$config['base_url']	= '';
 
 /*
 |--------------------------------------------------------------------------
