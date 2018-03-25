@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+body, html { margin:0; padding:0; }
+
+.dentalwrapper { width:100%; height:auto; float:left; position:relative; }
+.dentalwrapper img { width:100%; height:auto; float:left; }
+
+.fortyeight { width:10.5%; height:21%;  position:absolute; left:0%; bottom:10%; cursor:pointer; }
+.fortyseven { width:7.5%; height:27%;  position:absolute; left:10.8%; bottom:2%; cursor:pointer; }
+.fortysix { width:7.5%; height:27%;  position:absolute; left:18.7%; bottom:2%; cursor:pointer; }
+.fortyfive { width:4.5%; height:29%;  position:absolute; left:26.5%; bottom:0.5%; cursor:pointer; }
+.fortyfour { width:4.8%; height:30%;  position:absolute; left:31.5%; bottom:1.5%; cursor:pointer; }
+.fortythree { width:4.8%; height:33%;  position:absolute; left:36.7%; bottom:0%; cursor:pointer; }
+.fortytwo { width:4.4%; height:29%;  position:absolute; left:41.8%; bottom:3%; cursor:pointer; }
+.fortyone { width:3.8%; height:27%;  position:absolute; left:46.5%; bottom:5%; cursor:pointer; }
+
+.thirtyone { width:3.5%; height:27%;  position:absolute; left:50.8%; bottom:5%; cursor:pointer; }
+.thirtytwo { width:4.5%; height:29%;  position:absolute; left:54.7%; bottom:3%; cursor:pointer; }
+.thirtythree { width:4.7%; height:33%;  position:absolute; left:59.6%; bottom:0%; cursor:pointer; }
+.thirtyfour { width:4.7%; height:30%;  position:absolute; left:64.7%; bottom:1.5%; cursor:pointer; }
+.thirtyfive { width:4.5%; height:29%;  position:absolute; left:69.9%; bottom:0.5%; cursor:pointer; }
+.thirtysix { width:7.5%; height:27%;  position:absolute; left:74.9%; bottom:2%; cursor:pointer; }
+.thirtyseven { width:7.5%; height:27%;  position:absolute; left:82.7%; bottom:2%; cursor:pointer; }
+.thirtyeight { width:9.7%; height:22%;  position:absolute; left:90.3%; bottom:10%; cursor:pointer; }
+
+.eighteen { width:6.7%; height:22.5%;  position:absolute; left:2.6%; top:10.5%; cursor:pointer; }
+.seventeen { width:6%; height:27%;  position:absolute; left:9.7%; top:9%; cursor:pointer; }
+.sixteen { width:7%; height:28%;  position:absolute; left:16%; top:9%; cursor:pointer; }
+.fifteen { width:4.5%; height:27.5%;  position:absolute; left:23.4%; top:8.4%; cursor:pointer; }
+.fourteen { width:4.9%; height:27%;  position:absolute; left:28.2%; top:7%; cursor:pointer; }
+.thirteen { width:4.9%; height:33%;  position:absolute; left:33.5%; top:0%; cursor:pointer; }
+.twelve { width:4.3%; height:27%;  position:absolute; left:39%; top:6%; cursor:pointer; }
+.eleven { width:6.7%; height:28%;  position:absolute; left:43.5%; top:5%; cursor:pointer; }
+
+.twentyone { width:6.7%; height:28%;  position:absolute; left:50.6%; top:5%; cursor:pointer; }
+.twentytwo { width:4.4%; height:26.5%;  position:absolute; left:57.5%; top:6%; cursor:pointer; }
+.twentythree { width:5.1%; height:33%;  position:absolute; left:62.3%; top:0%; cursor:pointer; }
+.twentyfour { width:4.8%; height:27%;  position:absolute; left:67.7%; top:7%; cursor:pointer; }
+.twentyfive { width:4.6%; height:27.5%;  position:absolute; left:73%; top:8.5%; cursor:pointer; }
+.twentysix { width:6.7%; height:28%;  position:absolute; left:78%; top:8.5%; cursor:pointer; }
+.twentyseven { width:6%; height:27%;  position:absolute; left:85%; top:9%; cursor:pointer; }
+.twentyeight { width:7%; height:22.5%;  position:absolute; left:91.5%; top:10.5%; cursor:pointer; }
+
+
+
